@@ -11,47 +11,47 @@
 
 ---
 
-## 👩‍💻 Sobre mí
+## Sobre mí
 
 Soy Ingeniera en Software interesada en el desarrollo frontend,  
 el diseño UX/UI, las pruebas de software y la creación de productos digitales  
 intuitivos, funcionales y centrados en el usuario.
 
-- 🌱 Actualmente sigo aprendiendo sobre desarrollo web y cloud.
-- 🎨 Me interesa el diseño UX/UI.
-- 🧪 Tengo experiencia realizando pruebas manuales.
-- ☁️ Cuento con conocimientos en AWS.
-- 📫 Contacto: **karenborralles56@gmail.com**
+- Actualmente sigo aprendiendo sobre desarrollo web y cloud.
+- Me interesa el diseño UX/UI.
+- Tengo experiencia realizando pruebas manuales.
+- Cuento con conocimientos en AWS.
+- Contacto: **karenborralles56@gmail.com**
 
 ---
 
-## 🚀 Tecnologías
+## Tecnologías
 
-### 💻 Desarrollo
+### Desarrollo
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,react,nextjs,html,tailwind,flutter,kotlin&theme=dark" alt="Tecnologías de desarrollo"/>
 </p>
 
-### 🗄️ Bases de datos
+### Bases de datos
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Bases de datos"/>
 </p>
 
-### 🛠️ Herramientas y gestión
+### Herramientas y gestión
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,notion,postman&theme=dark" alt="Herramientas"/>
 </p>
 
-### ☁️ Cloud
+### Cloud
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS"/>
 </p>
 
-### 🎨 Diseño y documentación
+### Diseño y documentación
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,latex&theme=dark" alt="Diseño y documentación"/>
@@ -59,7 +59,7 @@ intuitivos, funcionales y centrados en el usuario.
 
 ---
 
-## 📌 Otras herramientas
+## Otras herramientas
 
 <p align="center">
 
