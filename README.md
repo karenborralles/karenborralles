@@ -72,7 +72,5 @@ intuitivos, funcionales y centrados en el usuario.
 
 ---
 
-/>
-
 </div>
 
