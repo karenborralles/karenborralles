@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! Soy Karen Borralles👋
+# ¡Hola! Soy Karen Borralles
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Ingeniera+en+Software;Desarrolladora+Frontend;Dise%C3%B1adora+UX%2FUI;Apasionada+por+la+calidad+de+software"
